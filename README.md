@@ -1,1 +1,1 @@
-![sample-view](screenshots/sample_view.png)
+![sample-view](screenshots/sample-view.png)

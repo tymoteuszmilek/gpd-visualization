@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gdp-visualization/static/css/main.e7f24df4.css",
+    "main.js": "/gdp-visualization/static/js/main.db77676e.js",
+    "static/js/453.36764cbe.chunk.js": "/gdp-visualization/static/js/453.36764cbe.chunk.js",
+    "index.html": "/gdp-visualization/index.html",
+    "main.e7f24df4.css.map": "/gdp-visualization/static/css/main.e7f24df4.css.map",
+    "main.db77676e.js.map": "/gdp-visualization/static/js/main.db77676e.js.map",
+    "453.36764cbe.chunk.js.map": "/gdp-visualization/static/js/453.36764cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f24df4.css",
+    "static/js/main.db77676e.js"
+  ]
+}
